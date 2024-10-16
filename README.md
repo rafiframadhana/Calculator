@@ -7,10 +7,6 @@ This is a simple yet functional calculator web application that performs basic a
 - **User-Friendly Interface**: Intuitive design for ease of use.
 - **Keyboard Shortcuts**: Perform calculations using keyboard keys for quick access.
 
-## Getting Started
-To run the application locally, clone the repository and open `index.html` in your browser.
-
-
 ## Live Demo
 Try the calculator online [here](https://rafiframadhana.github.io/Calculator/).
 
