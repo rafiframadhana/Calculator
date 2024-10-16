@@ -12,7 +12,7 @@ To run the application locally, clone the repository and open `index.html` in yo
 
 
 ## Live Demo
-Try the calculator online [here](YOUR_GITHUB_PAGES_LINK_HERE).
+Try the calculator online [here](https://rafiframadhana.github.io/Calculator/).
 
 ## Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
