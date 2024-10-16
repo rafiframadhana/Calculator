@@ -2,6 +2,9 @@
 
 This is a simple yet functional calculator web application that performs basic arithmetic operations.
 
+## Important
+If the calculation section shows **null**, click 'Clear,' then you can start using the calculator.
+
 ## Features
 - **Basic Operations**: Addition, subtraction, multiplication, and division.
 - **User-Friendly Interface**: Intuitive design for ease of use.
